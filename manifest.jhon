@@ -1,7 +1,7 @@
 {
   "name": "ΕΞ. ΦΡΟΥΡΑ",
   "short_name": "ΕΞ. ΦΡΟΥΡΑ",
-  "start_url": "./index.html?v=7.4",
+ "start_url": "/index.html"
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1b5e20",
